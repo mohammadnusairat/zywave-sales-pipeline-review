@@ -272,8 +272,8 @@ def analyze_pipeline(current_week: str):
     )
 
     changed_deals = changed_deals.sort_values(
-        by=["Risk Score", "ACV Variance"],
-        ascending=[False, True],
+        by=["Opportunity"],
+        ascending=True,
     )
 
     variances = []
