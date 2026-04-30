@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+venv/
+.venv
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.pyc
+
+# builds
+dist/
+build/
+.next/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# logs
+*.log
+
+# Excel/output files if generated dynamically
+*_completed.xlsx
+uploads/
+outputs/
+
+# other files in my repo
+ai_ops_assessment.py
