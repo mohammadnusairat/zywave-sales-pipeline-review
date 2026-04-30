@@ -36,4 +36,5 @@ npm install
 npm run dev
 ```
 
-*Authorered by Mohammad Nusairat in April, 2026*
+*Authorered by Mohammad Nusairat*  
+*April, 2026*
